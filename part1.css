@@ -15,3 +15,8 @@ em:last-child {
 	color: green;
 	font-weight: bold;
 }
+
+a[href^="http:"]:after {
+	content: url(http://upload.wikimedia.org/wikipedia/commons/6/64/Icon_External_Link.png);	
+}
+
