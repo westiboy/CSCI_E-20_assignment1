@@ -1,0 +1,17 @@
+body{
+	font-family: "Arial", Arial, serif; 
+}
+
+header,h1, h2, h3, h4 {
+	font-family: "Helvetica", Helvetica, serif; 
+	color: red;
+	font-style: italic;
+}
+
+main {
+
+}
+em:last-child {
+	color: green;
+	font-weight: bold;
+}
