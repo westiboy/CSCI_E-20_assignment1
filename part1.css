@@ -23,3 +23,9 @@ a[href^="http:"]:after {
 a[href*=".pdf"]:after {
 	content: '(PDF)';
 }
+
+nav a{
+		color: yellow;
+	background-color: #737373;
+}
+
