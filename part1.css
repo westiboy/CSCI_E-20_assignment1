@@ -37,3 +37,8 @@ main li a:only-child {
 table tr:nth-child(2) {
 	background-color: #D3D3D3;	
 }
+
+main p:last-child strong {
+	border-style: solid;
+	border-color: blue;
+}
