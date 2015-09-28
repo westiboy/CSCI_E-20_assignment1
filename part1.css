@@ -48,3 +48,11 @@ main p:last-child strong {
 	font-weight: bold;
 }
 
+footer p:before {
+	content: 'Thank goodness part 1 is done.';
+}
+
+footer {
+	border-top-style: solid;
+	border-color: Gray;
+}
