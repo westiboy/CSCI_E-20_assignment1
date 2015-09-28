@@ -42,3 +42,9 @@ main p:last-child strong {
 	border-style: solid;
 	border-color: blue;
 }
+
+#left blockquote:nth-child(3) p {
+	color: #663300;
+	font-weight: bold;
+}
+
