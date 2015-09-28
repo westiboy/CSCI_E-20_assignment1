@@ -29,3 +29,11 @@ nav a{
 	background-color: #737373;
 }
 
+main li a:only-child {
+	color: orange;
+	font-weight: bold;
+}
+
+table tr:nth-child(2) {
+	background-color: #D3D3D3;	
+}
